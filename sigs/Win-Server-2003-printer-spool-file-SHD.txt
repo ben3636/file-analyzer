@@ -1,0 +1,8 @@
+File Description: Win Server 2003 printer spool file
+
+File Extension: SHD
+
+Offset: 0
+
+Signature: 68-49-00-00
+

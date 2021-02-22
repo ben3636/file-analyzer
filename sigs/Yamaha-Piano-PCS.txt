@@ -1,0 +1,8 @@
+File Description: Yamaha Piano
+
+File Extension: PCS
+
+Offset: 0
+
+Signature: 4D-54-68-64
+

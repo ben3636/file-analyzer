@@ -1,0 +1,8 @@
+File Description: Windows Event Viewer file
+
+File Extension: EVT
+
+Offset: 0
+
+Signature: 30-00-00-00-4C-66-4C-65
+

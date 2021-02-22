@@ -1,0 +1,8 @@
+File Description: Windows Registry file
+
+File Extension: REG
+
+Offset: 0
+
+Signature: FF-FE
+

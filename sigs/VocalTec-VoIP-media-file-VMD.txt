@@ -1,0 +1,8 @@
+File Description: VocalTec VoIP media file
+
+File Extension: VMD
+
+Offset: 0
+
+Signature: 5B-56-4D-44-5D
+

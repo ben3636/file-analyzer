@@ -1,0 +1,8 @@
+File Description: ZOO compressed archive
+
+File Extension: ZOO
+
+Offset: 0
+
+Signature: 5A-4F-4F-20
+

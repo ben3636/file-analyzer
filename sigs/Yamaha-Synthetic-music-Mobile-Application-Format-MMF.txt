@@ -1,0 +1,8 @@
+File Description: Yamaha Synthetic music Mobile Application Format
+
+File Extension: MMF
+
+Offset: 0
+
+Signature: 4D-4D-4D-44-00-00
+

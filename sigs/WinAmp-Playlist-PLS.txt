@@ -1,0 +1,8 @@
+File Description: WinAmp Playlist
+
+File Extension: PLS
+
+Offset: 0
+
+Signature: 5B-70-6C-61-79-6C-69-73-74-5D
+

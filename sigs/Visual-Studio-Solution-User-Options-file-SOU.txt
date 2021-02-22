@@ -1,0 +1,8 @@
+File Description: Visual Studio Solution User Options file
+
+File Extension: SOU
+
+Offset: 0
+
+Signature: D0-CF-11-E0-A1-B1-1A-E1
+

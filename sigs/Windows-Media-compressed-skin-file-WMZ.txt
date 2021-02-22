@@ -1,0 +1,8 @@
+File Description: Windows Media compressed skin file
+
+File Extension: WMZ
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

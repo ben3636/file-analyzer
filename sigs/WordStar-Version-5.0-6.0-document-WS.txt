@@ -1,0 +1,8 @@
+File Description: WordStar Version 5.0-6.0 document
+
+File Extension: WS
+
+Offset: 0
+
+Signature: 1D-7D
+

@@ -1,0 +1,8 @@
+File Description: WinNT Registry-Registry Undo files
+
+File Extension: REG|SUD
+
+Offset: 0
+
+Signature: 52-45-47-45-44-49-54
+

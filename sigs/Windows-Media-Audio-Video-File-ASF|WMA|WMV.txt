@@ -1,0 +1,8 @@
+File Description: Windows Media Audio-Video File
+
+File Extension: ASF|WMA|WMV
+
+Offset: 0
+
+Signature: 30-26-B2-75-8E-66-CF-11
+

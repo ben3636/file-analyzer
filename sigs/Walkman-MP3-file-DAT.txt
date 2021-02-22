@@ -1,0 +1,8 @@
+File Description: Walkman MP3 file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 57-4D-4D-50
+

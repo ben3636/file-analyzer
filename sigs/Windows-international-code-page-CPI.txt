@@ -1,0 +1,8 @@
+File Description: Windows international code page
+
+File Extension: CPI
+
+Offset: 0
+
+Signature: FF-46-4F-4E-54
+

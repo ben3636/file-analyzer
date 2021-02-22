@@ -1,0 +1,8 @@
+File Description: Win9x registry hive
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 43-52-45-47
+

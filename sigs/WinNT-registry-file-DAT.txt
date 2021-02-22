@@ -1,0 +1,8 @@
+File Description: WinNT registry file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 72-65-67-66
+

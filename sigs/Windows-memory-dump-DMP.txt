@@ -1,0 +1,8 @@
+File Description: Windows memory dump
+
+File Extension: DMP
+
+Offset: 0
+
+Signature: 50-41-47-45-44-55
+

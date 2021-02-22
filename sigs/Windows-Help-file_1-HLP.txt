@@ -1,0 +1,8 @@
+File Description: Windows Help file_1
+
+File Extension: HLP
+
+Offset: 6
+
+Signature: 00-00-FF-FF-FF-FF
+

@@ -1,0 +1,8 @@
+File Description: WordPerfect text
+
+File Extension: WPF
+
+Offset: 0
+
+Signature: 81-CD-AB
+

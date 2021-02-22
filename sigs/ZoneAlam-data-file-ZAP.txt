@@ -1,0 +1,8 @@
+File Description: ZoneAlam data file
+
+File Extension: ZAP
+
+Offset: 0
+
+Signature: 4D-5A-90-00-03-00-00-00-04-00-00-00-FF-FF
+

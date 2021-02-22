@@ -1,0 +1,8 @@
+File Description: Wii-GameCube
+
+File Extension: THP
+
+Offset: 0
+
+Signature: 54-48-50-00
+

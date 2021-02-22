@@ -1,0 +1,8 @@
+File Description: Windows Media Player playlist
+
+File Extension: WPL
+
+Offset: 84
+
+Signature: 4D-69-63-72-6F-73-6F-66-74-20-57-69-6E-64-6F-77-73-20-4D-65-64-69-61-20-50-6C-61-79-65-72-20-2D-2D-20
+

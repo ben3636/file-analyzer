@@ -1,0 +1,8 @@
+File Description: Windows prefetch
+
+File Extension: PF
+
+Offset: 4
+
+Signature: 53-43-43-41
+

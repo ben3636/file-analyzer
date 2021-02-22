@@ -1,0 +1,8 @@
+File Description: Windows Script Component
+
+File Extension: WSC
+
+Offset: 0
+
+Signature: 3C-3F
+

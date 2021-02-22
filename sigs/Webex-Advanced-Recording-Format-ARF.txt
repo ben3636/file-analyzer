@@ -1,0 +1,8 @@
+File Description: Webex Advanced Recording Format
+
+File Extension: ARF
+
+Offset: 0
+
+Signature: 01-00-02-00
+

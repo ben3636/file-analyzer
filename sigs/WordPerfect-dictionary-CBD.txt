@@ -1,0 +1,8 @@
+File Description: WordPerfect dictionary
+
+File Extension: CBD
+
+Offset: 0
+
+Signature: 43-42-46-49-4C-45
+

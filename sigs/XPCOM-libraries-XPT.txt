@@ -1,0 +1,8 @@
+File Description: XPCOM libraries
+
+File Extension: XPT
+
+Offset: 0
+
+Signature: 58-50-43-4F-4D-0A-54-79
+

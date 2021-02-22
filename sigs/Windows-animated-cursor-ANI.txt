@@ -1,0 +1,8 @@
+File Description: Windows animated cursor
+
+File Extension: ANI
+
+Offset: 0
+
+Signature: 52-49-46-46
+

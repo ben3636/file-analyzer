@@ -1,0 +1,8 @@
+File Description: Win2000-XP printer spool file
+
+File Extension: SHD
+
+Offset: 0
+
+Signature: 67-49-00-00
+

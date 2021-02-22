@@ -1,0 +1,8 @@
+File Description: Windows Vista event log
+
+File Extension: EVTX
+
+Offset: 0
+
+Signature: 45-6C-66-46-69-6C-65-00
+

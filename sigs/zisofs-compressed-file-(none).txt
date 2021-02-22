@@ -1,0 +1,8 @@
+File Description: zisofs compressed file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 37-E4-53-96-C9-DB-D6-07
+

@@ -1,0 +1,8 @@
+File Description: Word document subheader
+
+File Extension: DOC
+
+Offset: 512
+
+Signature: EC-A5-C1-00
+

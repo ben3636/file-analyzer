@@ -1,0 +1,8 @@
+File Description: ZSOFT Paintbrush file_1
+
+File Extension: PCX
+
+Offset: 0
+
+Signature: 0A-02-01-01
+

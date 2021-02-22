@@ -1,0 +1,8 @@
+File Description: VMware 3 Virtual Disk
+
+File Extension: VMDK
+
+Offset: 0
+
+Signature: 43-4F-57-44
+

@@ -1,0 +1,8 @@
+File Description: WhereIsIt Catalog
+
+File Extension: CTF
+
+Offset: 0
+
+Signature: 43-61-74-61-6C-6F-67-20
+

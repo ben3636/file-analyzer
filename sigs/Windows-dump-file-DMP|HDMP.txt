@@ -1,0 +1,8 @@
+File Description: Windows dump file
+
+File Extension: DMP|HDMP
+
+Offset: 0
+
+Signature: 4D-44-4D-50-93-A7
+

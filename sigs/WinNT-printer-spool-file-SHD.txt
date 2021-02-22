@@ -1,0 +1,8 @@
+File Description: WinNT printer spool file
+
+File Extension: SHD
+
+Offset: 0
+
+Signature: 66-49-00-00
+

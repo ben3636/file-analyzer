@@ -1,0 +1,8 @@
+File Description: Windows 7 thumbnail
+
+File Extension: DB
+
+Offset: 0
+
+Signature: 43-4D-4D-4D-15-00-00-00
+

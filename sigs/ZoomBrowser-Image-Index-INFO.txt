@@ -1,0 +1,8 @@
+File Description: ZoomBrowser Image Index
+
+File Extension: INFO
+
+Offset: 0
+
+Signature: 7A-62-65-78
+

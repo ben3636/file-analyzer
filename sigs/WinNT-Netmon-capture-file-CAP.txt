@@ -1,0 +1,8 @@
+File Description: WinNT Netmon capture file
+
+File Extension: CAP
+
+Offset: 0
+
+Signature: 52-54-53-53
+

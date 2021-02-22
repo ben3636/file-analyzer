@@ -1,0 +1,8 @@
+File Description: Windows Program Manager group file
+
+File Extension: GRP
+
+Offset: 0
+
+Signature: 50-4D-43-43
+

@@ -1,0 +1,8 @@
+File Description: VMapSource GPS Waypoint Database
+
+File Extension: GDB
+
+Offset: 0
+
+Signature: 4D-73-52-63-66
+

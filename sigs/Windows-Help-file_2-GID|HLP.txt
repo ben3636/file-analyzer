@@ -1,0 +1,8 @@
+File Description: Windows Help file_2
+
+File Extension: GID|HLP
+
+Offset: 0
+
+Signature: 3F-5F-03-00
+

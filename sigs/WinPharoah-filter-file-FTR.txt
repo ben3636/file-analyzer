@@ -1,0 +1,8 @@
+File Description: WinPharoah filter file
+
+File Extension: FTR
+
+Offset: 0
+
+Signature: D2-0A-00-00
+

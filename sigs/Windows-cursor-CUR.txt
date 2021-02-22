@@ -1,0 +1,8 @@
+File Description: Windows cursor
+
+File Extension: CUR
+
+Offset: 0
+
+Signature: 00-00-02-00
+

@@ -1,0 +1,8 @@
+File Description: WinDump (winpcap) capture file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: D4-C3-B2-A1
+

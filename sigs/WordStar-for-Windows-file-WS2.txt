@@ -1,0 +1,8 @@
+File Description: WordStar for Windows file
+
+File Extension: WS2
+
+Offset: 0
+
+Signature: 57-53-32-30-30-30
+

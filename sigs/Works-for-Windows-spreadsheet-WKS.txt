@@ -1,0 +1,8 @@
+File Description: Works for Windows spreadsheet
+
+File Extension: WKS
+
+Offset: 0
+
+Signature: FF-00-02-00-04-04-05-54
+

@@ -1,0 +1,8 @@
+File Description: VMware 4 Virtual Disk
+
+File Extension: VMDK
+
+Offset: 0
+
+Signature: 4B-44-4D
+

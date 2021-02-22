@@ -1,0 +1,8 @@
+File Description: Windows application log
+
+File Extension: LGC|LGD
+
+Offset: 0
+
+Signature: 7B-0D-0A-6F-20
+

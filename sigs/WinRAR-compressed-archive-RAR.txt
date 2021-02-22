@@ -1,0 +1,8 @@
+File Description: WinRAR compressed archive
+
+File Extension: RAR
+
+Offset: 0
+
+Signature: 52-61-72-21-1A-07-00
+

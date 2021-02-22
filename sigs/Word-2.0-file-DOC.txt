@@ -1,0 +1,8 @@
+File Description: Word 2.0 file
+
+File Extension: DOC
+
+Offset: 0
+
+Signature: DB-A5-2D-00
+

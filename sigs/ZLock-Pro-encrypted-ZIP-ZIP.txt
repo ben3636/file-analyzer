@@ -1,0 +1,8 @@
+File Description: ZLock Pro encrypted ZIP
+
+File Extension: ZIP
+
+Offset: 0
+
+Signature: 50-4B-03-04-14-00-01-00
+

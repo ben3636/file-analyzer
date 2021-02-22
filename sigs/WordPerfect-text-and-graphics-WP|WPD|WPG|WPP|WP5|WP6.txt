@@ -1,0 +1,8 @@
+File Description: WordPerfect text and graphics
+
+File Extension: WP|WPD|WPG|WPP|WP5|WP6
+
+Offset: 0
+
+Signature: FF-57-50-43
+

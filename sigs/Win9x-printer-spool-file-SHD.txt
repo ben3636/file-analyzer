@@ -1,0 +1,8 @@
+File Description: Win9x printer spool file
+
+File Extension: SHD
+
+Offset: 0
+
+Signature: 4B-49-00-00
+

@@ -1,0 +1,8 @@
+File Description: XZ archive
+
+File Extension: XZ
+
+Offset: 0
+
+Signature: FD-37-7A-58-5A-00
+

@@ -1,0 +1,8 @@
+File Description: Windows Disk Image
+
+File Extension: TBI
+
+Offset: 0
+
+Signature: 00-00-00-00-14-00-00-00
+

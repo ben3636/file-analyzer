@@ -1,0 +1,8 @@
+File Description: WinPharoah capture file
+
+File Extension: ETH
+
+Offset: 0
+
+Signature: 1A-35-01-00
+

@@ -1,0 +1,8 @@
+File Description: Windows Script Component (UTF-8)_2
+
+File Extension: WSC
+
+Offset: 0
+
+Signature: EF-BB-BF-3C-3F
+

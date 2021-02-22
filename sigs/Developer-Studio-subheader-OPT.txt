@@ -1,0 +1,8 @@
+File Description: Developer Studio subheader
+
+File Extension: OPT
+
+Offset: 512
+
+Signature: FD-FF-FF-FF-20
+

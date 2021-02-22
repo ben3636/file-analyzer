@@ -1,0 +1,8 @@
+File Description: InstallShield Script
+
+File Extension: INS
+
+Offset: 0
+
+Signature: B8-C9-0C-00
+

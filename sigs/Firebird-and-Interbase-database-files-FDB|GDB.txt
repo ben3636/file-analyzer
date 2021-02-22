@@ -1,0 +1,8 @@
+File Description: Firebird and Interbase database files
+
+File Extension: FDB|GDB
+
+Offset: 0
+
+Signature: 01-00-39-30
+

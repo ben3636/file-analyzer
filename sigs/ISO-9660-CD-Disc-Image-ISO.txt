@@ -1,0 +1,8 @@
+File Description: ISO-9660 CD Disc Image
+
+File Extension: ISO
+
+Offset: 0
+
+Signature: 43-44-30-30-31
+

@@ -1,0 +1,8 @@
+File Description: FAT12 File Allocation Table
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: F0-FF-FF
+

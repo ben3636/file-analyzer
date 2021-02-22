@@ -1,0 +1,8 @@
+File Description: Harvard Graphics symbol graphic
+
+File Extension: SYW
+
+Offset: 0
+
+Signature: 41-4D-59-4F
+

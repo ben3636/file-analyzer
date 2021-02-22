@@ -1,0 +1,8 @@
+File Description: Install Shield compressed file
+
+File Extension: CAB|HDR
+
+Offset: 0
+
+Signature: 49-53-63-28
+

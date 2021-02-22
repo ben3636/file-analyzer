@@ -1,0 +1,8 @@
+File Description: DVD video file
+
+File Extension: MPG|VOB
+
+Offset: 0
+
+Signature: 00-00-01-BA
+

@@ -1,0 +1,8 @@
+File Description: Inter@ctive Pager Backup (BlackBerry file
+
+File Extension: IPD
+
+Offset: 0
+
+Signature: -49-6E-74-65-72-40-63-74-69-76-65-20-50-61-67-65
+

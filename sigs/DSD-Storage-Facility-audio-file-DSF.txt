@@ -1,0 +1,8 @@
+File Description: DSD Storage Facility audio file
+
+File Extension: DSF
+
+Offset: 0
+
+Signature: 44-53-44-20
+

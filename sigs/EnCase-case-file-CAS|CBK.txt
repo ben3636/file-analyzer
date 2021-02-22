@@ -1,0 +1,8 @@
+File Description: EnCase case file
+
+File Extension: CAS|CBK
+
+Offset: 0
+
+Signature: 5F-43-41-53-45-5F
+

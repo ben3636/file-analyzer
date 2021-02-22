@@ -1,0 +1,8 @@
+File Description: FLIC animation
+
+File Extension: FLI
+
+Offset: 0
+
+Signature: 00-11
+

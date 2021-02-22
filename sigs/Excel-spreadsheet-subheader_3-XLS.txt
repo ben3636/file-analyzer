@@ -1,0 +1,8 @@
+File Description: Excel spreadsheet subheader_3
+
+File Extension: XLS
+
+Offset: 512
+
+Signature: FD-FF-FF-FF-1F
+

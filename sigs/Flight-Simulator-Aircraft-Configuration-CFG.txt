@@ -1,0 +1,8 @@
+File Description: Flight Simulator Aircraft Configuration
+
+File Extension: CFG
+
+Offset: 0
+
+Signature: 5B-66-6C-74-73-69-6D-2E
+

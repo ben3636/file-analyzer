@@ -1,0 +1,8 @@
+File Description: GEM Raster file
+
+File Extension: IMG
+
+Offset: 0
+
+Signature: EB-3C-90-2A
+

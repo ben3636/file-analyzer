@@ -1,0 +1,8 @@
+File Description: Dreamcast audio
+
+File Extension: ADX
+
+Offset: 0
+
+Signature: 80-00-00-20-03-12-04
+

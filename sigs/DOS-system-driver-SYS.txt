@@ -1,0 +1,8 @@
+File Description: DOS system driver
+
+File Extension: SYS
+
+Offset: 0
+
+Signature: FF-FF-FF-FF
+

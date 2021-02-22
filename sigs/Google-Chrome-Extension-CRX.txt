@@ -1,0 +1,8 @@
+File Description: Google Chrome Extension
+
+File Extension: CRX
+
+Offset: 0
+
+Signature: 43-72-32-34
+

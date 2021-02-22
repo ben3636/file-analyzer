@@ -1,0 +1,8 @@
+File Description: ISO Base Media file (MPEG-4) v1
+
+File Extension: MP4
+
+Offset: 4
+
+Signature: 66-74-79-70-69-73-6F-6D
+

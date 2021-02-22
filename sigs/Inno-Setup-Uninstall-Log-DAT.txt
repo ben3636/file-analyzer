@@ -1,0 +1,8 @@
+File Description: Inno Setup Uninstall Log
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 49-6E-6E-6F-20-53-65-74
+

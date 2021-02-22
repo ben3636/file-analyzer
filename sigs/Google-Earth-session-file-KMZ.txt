@@ -1,0 +1,8 @@
+File Description: Google Earth session file
+
+File Extension: KMZ
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

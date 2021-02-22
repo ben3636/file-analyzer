@@ -1,0 +1,8 @@
+File Description: GZIP archive file
+
+File Extension: GZ
+
+Offset: 0
+
+Signature: 1F-8B-08
+

@@ -1,0 +1,8 @@
+File Description: Excel spreadsheet subheader_1
+
+File Extension: XLS
+
+Offset: 512
+
+Signature: 09-08-10-00-00-06-05-00
+

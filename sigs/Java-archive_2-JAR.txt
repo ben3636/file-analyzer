@@ -1,0 +1,8 @@
+File Description: Java archive_2
+
+File Extension: JAR
+
+Offset: 0
+
+Signature: 50-4B-03-04-14-00-08-00
+

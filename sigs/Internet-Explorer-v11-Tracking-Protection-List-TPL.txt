@@ -1,0 +1,8 @@
+File Description: Internet Explorer v11 Tracking Protection List
+
+File Extension: TPL
+
+Offset: 0
+
+Signature: 6D-73-46-69-6C-74-65-72-4C-69-73-74
+

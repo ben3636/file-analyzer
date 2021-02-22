@@ -1,0 +1,8 @@
+File Description: INFO2 Windows recycle bin_2
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 05-00-00-00
+

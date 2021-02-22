@@ -1,0 +1,8 @@
+File Description: IE History file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 43-6C-69-65-6E-74-20-55
+

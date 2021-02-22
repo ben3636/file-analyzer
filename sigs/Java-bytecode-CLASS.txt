@@ -1,0 +1,8 @@
+File Description: Java bytecode
+
+File Extension: CLASS
+
+Offset: 0
+
+Signature: CA-FE-BA-BE
+

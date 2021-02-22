@@ -1,0 +1,8 @@
+File Description: Exchange e-mail
+
+File Extension: EML
+
+Offset: 0
+
+Signature: 58-2D
+

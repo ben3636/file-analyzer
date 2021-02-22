@@ -1,0 +1,8 @@
+File Description: GIF file
+
+File Extension: GIF
+
+Offset: 0
+
+Signature: 47-49-46-38
+

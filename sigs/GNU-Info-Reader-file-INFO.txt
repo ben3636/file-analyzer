@@ -1,0 +1,8 @@
+File Description: GNU Info Reader file
+
+File Extension: INFO
+
+Offset: 0
+
+Signature: 54-68-69-73-20-69-73-20
+

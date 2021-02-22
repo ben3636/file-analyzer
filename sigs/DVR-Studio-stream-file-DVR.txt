@@ -1,0 +1,8 @@
+File Description: DVR-Studio stream file
+
+File Extension: DVR
+
+Offset: 0
+
+Signature: 44-56-44
+

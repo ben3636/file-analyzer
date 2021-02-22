@@ -1,0 +1,8 @@
+File Description: Fuzzy bitmap (FBM) file
+
+File Extension: FBM
+
+Offset: 0
+
+Signature: -25-62-69-74-6D-61-70
+

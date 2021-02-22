@@ -1,0 +1,8 @@
+File Description: EasyRecovery Saved State file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 45-52-46-53-53-41-56-45
+

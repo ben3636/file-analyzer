@@ -1,0 +1,8 @@
+File Description: Free Lossless Audio Codec file
+
+File Extension: FLAC
+
+Offset: 0
+
+Signature: 66-4C-61-43-00-00-00-22
+

@@ -1,0 +1,8 @@
+File Description: Jar archive
+
+File Extension: JAR
+
+Offset: 0
+
+Signature: 5F-27-A8-89
+

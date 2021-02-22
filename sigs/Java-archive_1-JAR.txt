@@ -1,0 +1,8 @@
+File Description: Java archive_1
+
+File Extension: JAR
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

@@ -1,0 +1,8 @@
+File Description: FAT16 File Allocation Table
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: F8-FF-FF-FF
+

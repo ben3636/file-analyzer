@@ -1,0 +1,8 @@
+File Description: Dial-up networking file
+
+File Extension: DUN
+
+Offset: 0
+
+Signature: 5B-50-68-6F-6E-65-5D
+

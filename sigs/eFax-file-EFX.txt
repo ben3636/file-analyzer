@@ -1,0 +1,8 @@
+File Description: eFax file
+
+File Extension: EFX
+
+Offset: 0
+
+Signature: DC-FE
+

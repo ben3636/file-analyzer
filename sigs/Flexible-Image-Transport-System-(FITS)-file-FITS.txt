@@ -1,0 +1,8 @@
+File Description: Flexible Image Transport System (FITS) file
+
+File Extension: FITS
+
+Offset: 0
+
+Signature: 53-49-4D-50-4C-45-20-20-3D-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-54
+

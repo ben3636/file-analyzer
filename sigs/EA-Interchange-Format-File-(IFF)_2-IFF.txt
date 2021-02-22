@@ -1,0 +1,8 @@
+File Description: EA Interchange Format File (IFF)_2
+
+File Extension: IFF
+
+Offset: 0
+
+Signature: 4C-49-53-54
+

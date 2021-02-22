@@ -1,0 +1,8 @@
+File Description: Digital Watchdog DW-TP-500G audio
+
+File Extension: IMG
+
+Offset: 0
+
+Signature: 7E-74-2C-01-50-70-02-4D-52
+

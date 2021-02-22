@@ -1,0 +1,8 @@
+File Description: Elite Plus Commander game file
+
+File Extension: CDR
+
+Offset: 0
+
+Signature: 45-4C-49-54-45-20-43-6F
+

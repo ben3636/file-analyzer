@@ -1,0 +1,8 @@
+File Description: General Regularly-distributed Information (GRIdded) Binary
+
+File Extension: GRB
+
+Offset: 0
+
+Signature: 47-52-49-42
+

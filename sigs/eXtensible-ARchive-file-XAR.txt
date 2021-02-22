@@ -1,0 +1,8 @@
+File Description: eXtensible ARchive file
+
+File Extension: XAR
+
+Offset: 0
+
+Signature: 78-61-72-21
+

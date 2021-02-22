@@ -1,0 +1,8 @@
+File Description: GIMP pattern file
+
+File Extension: PAT
+
+Offset: 0
+
+Signature: 47-50-41-54
+

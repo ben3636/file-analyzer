@@ -1,0 +1,8 @@
+File Description: GEnealogical Data COMmunication (GEDCOM) file
+
+File Extension: GED
+
+Offset: 0
+
+Signature: 30-20-48-45-41-44
+

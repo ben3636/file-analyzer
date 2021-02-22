@@ -1,0 +1,8 @@
+File Description: FreeArc compressed file
+
+File Extension: ARC
+
+Offset: 0
+
+Signature: 41-72-43-01
+

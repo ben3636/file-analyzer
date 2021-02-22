@@ -1,0 +1,8 @@
+File Description: Dreamcast Sound Format
+
+File Extension: DSF
+
+Offset: 0
+
+Signature: 50-53-46-12
+

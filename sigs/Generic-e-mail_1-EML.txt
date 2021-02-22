@@ -1,0 +1,8 @@
+File Description: Generic e-mail_1
+
+File Extension: EML
+
+Offset: 0
+
+Signature: 52-65-74-75-72-6E-2D-50
+

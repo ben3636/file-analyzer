@@ -1,0 +1,8 @@
+File Description: FAT32 File Allocation Table_1
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: F8-FF-FF-0F-FF-FF-FF-0F
+

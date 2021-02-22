@@ -1,0 +1,8 @@
+File Description: Img Software Bitmap
+
+File Extension: IMG
+
+Offset: 0
+
+Signature: 53-43-4D-49
+

@@ -1,0 +1,8 @@
+File Description: JARCS compressed archive
+
+File Extension: JAR
+
+Offset: 0
+
+Signature: 4A-41-52-43-53-00
+

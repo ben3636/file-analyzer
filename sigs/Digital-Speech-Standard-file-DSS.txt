@@ -1,0 +1,8 @@
+File Description: Digital Speech Standard file
+
+File Extension: DSS
+
+Offset: 0
+
+Signature: 02-64-73-73
+

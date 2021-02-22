@@ -1,0 +1,8 @@
+File Description: Intel PROset-Wireless Profile
+
+File Extension: P10
+
+Offset: 0
+
+Signature: 64-00-00-00
+

@@ -1,0 +1,8 @@
+File Description: Encapsulated PostScript file
+
+File Extension: EPS
+
+Offset: 0
+
+Signature: 25-21-50-53-2D-41-64-6F
+

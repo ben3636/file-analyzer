@@ -1,0 +1,8 @@
+File Description: Hamarsoft compressed archive
+
+File Extension: HAP
+
+Offset: 0
+
+Signature: 91-33-48-46
+

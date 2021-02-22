@@ -1,0 +1,8 @@
+File Description: Harvard Graphics presentation
+
+File Extension: SHW
+
+Offset: 0
+
+Signature: 53-48-4F-57
+

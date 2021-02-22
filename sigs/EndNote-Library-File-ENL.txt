@@ -1,0 +1,8 @@
+File Description: EndNote Library File
+
+File Extension: ENL
+
+Offset: 32
+
+Signature: 40-40-40-20-00-00-40-40-40-40
+

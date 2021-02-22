@@ -1,0 +1,8 @@
+File Description: ISO Media-MPEG v4-iTunes AVC-LC
+
+File Extension: FLV|M4V
+
+Offset: 4
+
+Signature: 66-74-79-70-4D-34-56-20
+

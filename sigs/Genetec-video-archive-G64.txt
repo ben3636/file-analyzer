@@ -1,0 +1,8 @@
+File Description: Genetec video archive
+
+File Extension: G64
+
+Offset: 0
+
+Signature: 47-65-6E-65-74-65-63-20-4F-6D-6E-69-63-61-73-74
+

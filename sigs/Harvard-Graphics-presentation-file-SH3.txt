@@ -1,0 +1,8 @@
+File Description: Harvard Graphics presentation file
+
+File Extension: SH3
+
+Offset: 0
+
+Signature: 48-48-47-42-31
+

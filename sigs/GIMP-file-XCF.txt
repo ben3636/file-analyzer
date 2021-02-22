@@ -1,0 +1,8 @@
+File Description: GIMP file
+
+File Extension: XCF
+
+Offset: 0
+
+Signature: 67-69-6d-70-20-78-63-66
+

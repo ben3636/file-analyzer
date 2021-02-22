@@ -1,0 +1,8 @@
+File Description: Husqvarna Designer
+
+File Extension: HUS
+
+Offset: 0
+
+Signature: 5D-FC-C8-00
+

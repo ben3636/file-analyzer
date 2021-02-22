@@ -1,0 +1,8 @@
+File Description: Easy CD Creator 5 Layout file
+
+File Extension: CL5
+
+Offset: 0
+
+Signature: 10-00-00-00
+

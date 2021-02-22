@@ -1,0 +1,8 @@
+File Description: DST Compression
+
+File Extension: DST
+
+Offset: 0
+
+Signature: 44-53-54-62
+

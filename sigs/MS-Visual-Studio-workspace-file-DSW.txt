@@ -1,0 +1,8 @@
+File Description: MS Visual Studio workspace file
+
+File Extension: DSW
+
+Offset: 0
+
+Signature: 64-73-77-66-69-6C-65
+

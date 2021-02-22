@@ -1,0 +1,8 @@
+File Description: MS Office Open XML Format Document
+
+File Extension: DOCX|PPTX|XLSX
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

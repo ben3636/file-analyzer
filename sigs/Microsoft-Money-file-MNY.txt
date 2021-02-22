@@ -1,0 +1,8 @@
+File Description: Microsoft Money file
+
+File Extension: MNY
+
+Offset: 0
+
+Signature: 00-01-00-00-4D-53-49-53-41-4D-20-44-61-74-61-62-61-73-65
+

@@ -1,0 +1,8 @@
+File Description: MS Reader eBook
+
+File Extension: LIT
+
+Offset: 0
+
+Signature: 49-54-4F-4C-49-54-4C-53
+

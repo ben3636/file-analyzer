@@ -1,0 +1,8 @@
+File Description: Microsoft Windows User State Migration Tool
+
+File Extension: PMOCCMOC
+
+Offset: 0
+
+Signature: 50-4D-4F-43-43-4D-4F-43
+

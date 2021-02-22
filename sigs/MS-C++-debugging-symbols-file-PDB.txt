@@ -1,0 +1,8 @@
+File Description: MS C++ debugging symbols file
+
+File Extension: PDB
+
+Offset: 0
+
+Signature: 4D-69-63-72-6F-73-6F-66-74-20-43-2F-43-2B-2B-20
+

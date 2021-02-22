@@ -1,0 +1,8 @@
+File Description: MS OneNote note
+
+File Extension: ONE
+
+Offset: 0
+
+Signature: E4-52-5C-7B-8C-D8-A7-4D
+

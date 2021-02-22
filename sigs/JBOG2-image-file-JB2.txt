@@ -1,0 +1,8 @@
+File Description: JBOG2 image file
+
+File Extension: JB2
+
+Offset: 0
+
+Signature: 97-4A-42-32-0D-0A-1A-0A
+

@@ -1,0 +1,8 @@
+File Description: Monochrome Picture TIFF bitmap
+
+File Extension: MP
+
+Offset: 0
+
+Signature: 0C-ED
+

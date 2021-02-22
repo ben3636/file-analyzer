@@ -1,0 +1,8 @@
+File Description: MPEG-4 video file_2
+
+File Extension: MP4
+
+Offset: 4
+
+Signature: 66-74-79-70-4D-53-4E-56
+

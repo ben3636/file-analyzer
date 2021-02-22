@@ -1,0 +1,8 @@
+File Description: Lotus Notes database
+
+File Extension: NSF
+
+Offset: 0
+
+Signature: 1A-00-00-04-00-00
+

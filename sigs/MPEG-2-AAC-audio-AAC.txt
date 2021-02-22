@@ -1,0 +1,8 @@
+File Description: MPEG-2 AAC audio
+
+File Extension: AAC
+
+Offset: 0
+
+Signature: FF-F9
+

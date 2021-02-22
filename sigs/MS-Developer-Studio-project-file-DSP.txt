@@ -1,0 +1,8 @@
+File Description: MS Developer Studio project file
+
+File Extension: DSP
+
+Offset: 0
+
+Signature: 23-20-4D-69-63-72-6F-73
+

@@ -1,0 +1,8 @@
+File Description: Micrografx vector graphic file
+
+File Extension: DRW
+
+Offset: 0
+
+Signature: 01-FF-02-04-03-02
+

@@ -1,0 +1,8 @@
+File Description: MapInfo Interchange Format file
+
+File Extension: MIF
+
+Offset: 0
+
+Signature: 56-65-72-73-69-6F-6E-20
+

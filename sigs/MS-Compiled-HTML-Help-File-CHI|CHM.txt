@@ -1,0 +1,8 @@
+File Description: MS Compiled HTML Help File
+
+File Extension: CHI|CHM
+
+Offset: 0
+
+Signature: 49-54-53-46
+

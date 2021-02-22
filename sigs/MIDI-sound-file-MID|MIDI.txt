@@ -1,0 +1,8 @@
+File Description: MIDI sound file
+
+File Extension: MID|MIDI
+
+Offset: 0
+
+Signature: 4D-54-68-64
+

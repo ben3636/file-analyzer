@@ -1,0 +1,8 @@
+File Description: MAr compressed archive
+
+File Extension: MAR
+
+Offset: 0
+
+Signature: 4D-41-72-30-00
+

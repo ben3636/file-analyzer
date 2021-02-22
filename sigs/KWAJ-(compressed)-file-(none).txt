@@ -1,0 +1,8 @@
+File Description: KWAJ (compressed) file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 4B-57-41-4A-88-F0-27-D1
+

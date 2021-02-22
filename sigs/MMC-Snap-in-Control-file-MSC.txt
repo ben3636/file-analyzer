@@ -1,0 +1,8 @@
+File Description: MMC Snap-in Control file
+
+File Extension: MSC
+
+Offset: 0
+
+Signature: 3C-3F-78-6D-6C-20-76-65-72-73-69-6F-6E-3D-22-31-2E-30-22-3F-3E-0D-0A-3C-4D-4D-43-5F-43-6F-6E-73-6F-6C-65-46-69-6C-65-20-43-6F-6E-73-6F-6C-65-56-65-72-73-69-6F-6E-3D-22
+

@@ -1,0 +1,8 @@
+File Description: Lotus-IBM Approach 97 file
+
+File Extension: APR
+
+Offset: 0
+
+Signature: D0-CF-11-E0-A1-B1-1A-E1
+

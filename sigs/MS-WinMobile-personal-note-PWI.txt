@@ -1,0 +1,8 @@
+File Description: MS WinMobile personal note
+
+File Extension: PWI
+
+Offset: 0
+
+Signature: 7B-5C-70-77-69
+

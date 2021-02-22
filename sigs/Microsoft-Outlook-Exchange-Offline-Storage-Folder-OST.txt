@@ -1,0 +1,8 @@
+File Description: Microsoft Outlook Exchange Offline Storage Folder
+
+File Extension: OST
+
+Offset: 0
+
+Signature: 21-42-44-4E
+

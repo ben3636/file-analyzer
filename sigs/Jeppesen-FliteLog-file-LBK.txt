@@ -1,0 +1,8 @@
+File Description: Jeppesen FliteLog file
+
+File Extension: LBK
+
+Offset: 0
+
+Signature: C8-00-79-00
+

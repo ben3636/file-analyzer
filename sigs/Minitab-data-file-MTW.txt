@@ -1,0 +1,8 @@
+File Description: Minitab data file
+
+File Extension: MTW
+
+Offset: 0
+
+Signature: D0-CF-11-E0-A1-B1-1A-E1
+

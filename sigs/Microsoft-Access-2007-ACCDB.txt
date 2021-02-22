@@ -1,0 +1,8 @@
+File Description: Microsoft Access 2007
+
+File Extension: ACCDB
+
+Offset: 0
+
+Signature: 00-01-00-00-53-74-61-6E-64-61-72-64-20-41-43-45-20-44-42
+

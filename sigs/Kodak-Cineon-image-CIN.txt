@@ -1,0 +1,8 @@
+File Description: Kodak Cineon image
+
+File Extension: CIN
+
+Offset: 0
+
+Signature: 80-2A-5F-D7
+

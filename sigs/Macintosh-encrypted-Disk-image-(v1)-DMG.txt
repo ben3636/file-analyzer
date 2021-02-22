@@ -1,0 +1,8 @@
+File Description: Macintosh encrypted Disk image (v1)
+
+File Extension: DMG
+
+Offset: 0
+
+Signature: 63-64-73-61-65-6E-63-72
+

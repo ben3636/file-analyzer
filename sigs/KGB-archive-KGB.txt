@@ -1,0 +1,8 @@
+File Description: KGB archive
+
+File Extension: KGB
+
+Offset: 0
+
+Signature: 4B-47-42-5F-61-72-63-68
+

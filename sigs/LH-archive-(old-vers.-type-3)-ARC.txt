@@ -1,0 +1,8 @@
+File Description: LH archive (old vers.-type 3)
+
+File Extension: ARC
+
+Offset: 0
+
+Signature: 1A-04
+

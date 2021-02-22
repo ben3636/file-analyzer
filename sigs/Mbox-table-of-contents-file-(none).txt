@@ -1,0 +1,8 @@
+File Description: Mbox table of contents file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 00-0D-BB-A0
+

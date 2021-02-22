@@ -1,0 +1,8 @@
+File Description: MacOS X image file
+
+File Extension: DMG
+
+Offset: 0
+
+Signature: 78-01-73-0D-62-62-60
+

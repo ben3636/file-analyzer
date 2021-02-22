@@ -1,0 +1,8 @@
+File Description: MP3 audio file
+
+File Extension: MP3
+
+Offset: 0
+
+Signature: 49-44-33
+

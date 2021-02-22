@@ -1,0 +1,8 @@
+File Description: Keyboard driver file
+
+File Extension: SYS
+
+Offset: 0
+
+Signature: FF-4B-45-59-42-20-20-20
+

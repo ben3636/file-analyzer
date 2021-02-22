@@ -1,0 +1,8 @@
+File Description: MS Windows journal
+
+File Extension: JNT|JTP
+
+Offset: 0
+
+Signature: 4E-42-2A-00
+

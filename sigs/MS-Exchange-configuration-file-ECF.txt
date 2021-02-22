@@ -1,0 +1,8 @@
+File Description: MS Exchange configuration file
+
+File Extension: ECF
+
+Offset: 0
+
+Signature: 5B-47-65-6E-65-72-61-6C
+

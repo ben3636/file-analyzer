@@ -1,0 +1,8 @@
+File Description: Lotus AMI Pro document_2
+
+File Extension: SAM
+
+Offset: 0
+
+Signature: 5B-76-65-72-5D
+

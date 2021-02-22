@@ -1,0 +1,8 @@
+File Description: MS Answer Wizard
+
+File Extension: AW
+
+Offset: 0
+
+Signature: 8A-01-09-00-00-00-E1-08
+

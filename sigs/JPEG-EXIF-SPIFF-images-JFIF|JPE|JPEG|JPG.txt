@@ -1,0 +1,8 @@
+File Description: JPEG-EXIF-SPIFF images
+
+File Extension: JFIF|JPE|JPEG|JPG
+
+Offset: 0
+
+Signature: FF-D8-FF
+

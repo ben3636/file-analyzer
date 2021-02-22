@@ -1,0 +1,8 @@
+File Description: MPEG-4 video_1
+
+File Extension: 3GP5|M4V|MP4
+
+Offset: 0
+
+Signature: 00-00-00-18-66-74-79-70
+

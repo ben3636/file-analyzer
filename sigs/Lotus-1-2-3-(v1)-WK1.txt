@@ -1,0 +1,8 @@
+File Description: Lotus 1-2-3 (v1)
+
+File Extension: WK1
+
+Offset: 0
+
+Signature: 00-00-02-00-06-04-06-00
+

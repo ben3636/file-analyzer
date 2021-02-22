@@ -1,0 +1,8 @@
+File Description: Merriam-Webster Pocket Dictionary
+
+File Extension: PDB
+
+Offset: 0
+
+Signature: 4D-2D-57-20-50-6F-63-6B
+

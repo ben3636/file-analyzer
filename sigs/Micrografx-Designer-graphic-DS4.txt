@@ -1,0 +1,8 @@
+File Description: Micrografx Designer graphic
+
+File Extension: DS4
+
+Offset: 0
+
+Signature: 52-49-46-46
+

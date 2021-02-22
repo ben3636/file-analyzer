@@ -1,0 +1,8 @@
+File Description: Microsoft Code Page Translation file
+
+File Extension: CPX
+
+Offset: 0
+
+Signature: 5B-57-69-6E-64-6F-77-73
+

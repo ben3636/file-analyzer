@@ -1,0 +1,8 @@
+File Description: Mozilla archive
+
+File Extension: MAR
+
+Offset: 0
+
+Signature: 4D-41-52-31-00
+

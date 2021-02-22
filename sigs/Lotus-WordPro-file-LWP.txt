@@ -1,0 +1,8 @@
+File Description: Lotus WordPro file
+
+File Extension: LWP
+
+Offset: 0
+
+Signature: 57-6F-72-64-50-72-6F
+

@@ -1,0 +1,8 @@
+File Description: KWord document
+
+File Extension: KWD
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

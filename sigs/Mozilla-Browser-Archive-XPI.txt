@@ -1,0 +1,8 @@
+File Description: Mozilla Browser Archive
+
+File Extension: XPI
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

@@ -1,0 +1,8 @@
+File Description: Macromedia Shockwave Flash
+
+File Extension: SWF
+
+Offset: 0
+
+Signature: 5A-57-53
+

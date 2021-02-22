@@ -1,0 +1,8 @@
+File Description: Logical File Evidence Format
+
+File Extension: E01
+
+Offset: 0
+
+Signature: 4C-56-46-09-0D-0A-FF-00
+

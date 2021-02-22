@@ -1,0 +1,8 @@
+File Description: MS Publisher subheader
+
+File Extension: PUB
+
+Offset: 512
+
+Signature: FD-37-7A-58-5A-00
+

@@ -1,0 +1,8 @@
+File Description: Microsoft-MSN MARC archive
+
+File Extension: MAR
+
+Offset: 0
+
+Signature: 4D-41-52-43
+

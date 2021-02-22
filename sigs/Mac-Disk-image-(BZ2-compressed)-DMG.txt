@@ -1,0 +1,8 @@
+File Description: Mac Disk image (BZ2 compressed)
+
+File Extension: DMG
+
+Offset: 0
+
+Signature: 42-5A-68
+

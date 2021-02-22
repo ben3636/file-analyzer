@@ -1,0 +1,8 @@
+File Description: MS COFF relocatable object code
+
+File Extension: OBJ
+
+Offset: 0
+
+Signature: 4C-01
+

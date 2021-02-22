@@ -1,0 +1,8 @@
+File Description: Material Exchange Format
+
+File Extension: MXF
+
+Offset: 0
+
+Signature: 06-0E-2B-34-02-05-01-01-0D-01-02-01-01-02
+

@@ -1,0 +1,8 @@
+File Description: MPEG-4 video-QuickTime file
+
+File Extension: M4V
+
+Offset: 4
+
+Signature: 66-74-79-70-6D-70-34-32
+

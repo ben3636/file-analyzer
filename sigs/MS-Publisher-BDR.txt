@@ -1,0 +1,8 @@
+File Description: MS Publisher
+
+File Extension: BDR
+
+Offset: 0
+
+Signature: 58-54
+

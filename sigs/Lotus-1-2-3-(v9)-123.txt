@@ -1,0 +1,8 @@
+File Description: Lotus 1-2-3 (v9)
+
+File Extension: 123
+
+Offset: 0
+
+Signature: 00-00-1A-00-05-10-04
+

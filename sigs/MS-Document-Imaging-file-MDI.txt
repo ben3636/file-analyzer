@@ -1,0 +1,8 @@
+File Description: MS Document Imaging file
+
+File Extension: MDI
+
+Offset: 0
+
+Signature: 45-50
+

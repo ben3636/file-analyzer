@@ -1,0 +1,8 @@
+File Description: MacOS X Dashboard Widget
+
+File Extension: ZIP
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

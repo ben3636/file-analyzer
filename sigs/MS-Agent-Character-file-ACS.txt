@@ -1,0 +1,8 @@
+File Description: MS Agent Character file
+
+File Extension: ACS
+
+Offset: 0
+
+Signature: C3-AB-CD-AB
+

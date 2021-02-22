@@ -1,0 +1,8 @@
+File Description: COM+ Catalog
+
+File Extension: CLB
+
+Offset: 0
+
+Signature: 43-4F-4D-2B
+

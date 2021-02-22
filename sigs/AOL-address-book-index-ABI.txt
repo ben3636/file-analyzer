@@ -1,0 +1,8 @@
+File Description: AOL address book index
+
+File Extension: ABI
+
+Offset: 0
+
+Signature: 41-4F-4C-49-4E-44-45-58
+

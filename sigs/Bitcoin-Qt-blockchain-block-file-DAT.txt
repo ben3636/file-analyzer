@@ -1,0 +1,8 @@
+File Description: Bitcoin-Qt blockchain block file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: F9-BE-B4-D9
+

@@ -1,0 +1,8 @@
+File Description: Canon RAW file
+
+File Extension: CRW
+
+Offset: 0
+
+Signature: 49-49-1A-00-00-00-48-45
+

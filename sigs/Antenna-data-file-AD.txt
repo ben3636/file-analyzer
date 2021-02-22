@@ -1,0 +1,8 @@
+File Description: Antenna data file
+
+File Extension: AD
+
+Offset: 0
+
+Signature: 52-45-56-4E-55-4D-3A-2C
+

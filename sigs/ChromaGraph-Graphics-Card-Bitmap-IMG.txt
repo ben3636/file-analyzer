@@ -1,0 +1,8 @@
+File Description: ChromaGraph Graphics Card Bitmap
+
+File Extension: IMG
+
+Offset: 0
+
+Signature: 50-49-43-54-00-08
+

@@ -1,0 +1,8 @@
+File Description: bzip2 compressed archive
+
+File Extension: BZ2|TAR|BZ2|TBZ2|TB2
+
+Offset: 0
+
+Signature: 42-5A-68
+

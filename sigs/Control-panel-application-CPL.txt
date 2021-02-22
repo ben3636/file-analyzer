@@ -1,0 +1,8 @@
+File Description: Control panel application
+
+File Extension: CPL
+
+Offset: 0
+
+Signature: 4D-5A
+

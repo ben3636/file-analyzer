@@ -1,0 +1,8 @@
+File Description: Cerius2 file
+
+File Extension: MSI
+
+Offset: 0
+
+Signature: 23-20
+

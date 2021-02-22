@@ -1,0 +1,8 @@
+File Description: BinHex 4 Compressed Archive
+
+File Extension: HQX
+
+Offset: 0
+
+Signature: 28-54-68-69-73-20-66-69
+

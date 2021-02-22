@@ -1,0 +1,8 @@
+File Description: BGBlitz position database file
+
+File Extension: PDB
+
+Offset: 0
+
+Signature: AC-ED-00-05-73-72-00-12
+

@@ -1,0 +1,8 @@
+File Description: AOL and AIM buddy list
+
+File Extension: BAG
+
+Offset: 0
+
+Signature: 41-4F-4C-20-46-65-65-64
+

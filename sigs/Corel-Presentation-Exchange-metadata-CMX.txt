@@ -1,0 +1,8 @@
+File Description: Corel Presentation Exchange metadata
+
+File Extension: CMX
+
+Offset: 0
+
+Signature: 52-49-46-46
+

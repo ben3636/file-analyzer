@@ -1,0 +1,8 @@
+File Description: Better Portable Graphics
+
+File Extension: BPG
+
+Offset: 0
+
+Signature: 42-50-47-FB
+

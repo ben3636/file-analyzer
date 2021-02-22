@@ -1,0 +1,8 @@
+File Description: Corel Binary metafile
+
+File Extension: CLB
+
+Offset: 0
+
+Signature: 43-4D-58-31
+

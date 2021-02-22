@@ -1,0 +1,8 @@
+File Description: AVG6 Integrity database
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 41-56-47-36-5F-49-6E-74
+

@@ -1,0 +1,8 @@
+File Description: 4X Movie video
+
+File Extension: 4XM
+
+Offset: 0
+
+Signature: 52-49-46-46
+

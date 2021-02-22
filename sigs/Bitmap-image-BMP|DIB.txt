@@ -1,0 +1,8 @@
+File Description: Bitmap image
+
+File Extension: BMP|DIB
+
+Offset: 0
+
+Signature: 42-4D
+

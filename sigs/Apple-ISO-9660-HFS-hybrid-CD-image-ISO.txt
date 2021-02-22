@@ -1,0 +1,8 @@
+File Description: Apple ISO 9660-HFS hybrid CD image
+
+File Extension: ISO
+
+Offset: 0
+
+Signature: 45-52-02-00-00
+

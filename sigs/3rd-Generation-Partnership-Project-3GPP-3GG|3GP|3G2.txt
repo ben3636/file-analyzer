@@ -1,0 +1,8 @@
+File Description: 3rd Generation Partnership Project 3GPP
+
+File Extension: 3GG|3GP|3G2
+
+Offset: 0
+
+Signature: 00-00-00-14-66-74-79-70
+

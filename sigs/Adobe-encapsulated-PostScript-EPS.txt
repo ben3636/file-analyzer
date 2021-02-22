@@ -1,0 +1,8 @@
+File Description: Adobe encapsulated PostScript
+
+File Extension: EPS
+
+Offset: 0
+
+Signature: C5-D0-D3-C6
+

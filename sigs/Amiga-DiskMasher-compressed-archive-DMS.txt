@@ -1,0 +1,8 @@
+File Description: Amiga DiskMasher compressed archive
+
+File Extension: DMS
+
+Offset: 0
+
+Signature: 44-4D-53-21
+

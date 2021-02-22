@@ -1,0 +1,8 @@
+File Description: AOL HTML mail
+
+File Extension: DCI
+
+Offset: 0
+
+Signature: 3C-21-64-6F-63-74-79-70
+

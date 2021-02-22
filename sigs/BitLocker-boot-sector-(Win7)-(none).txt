@@ -1,0 +1,8 @@
+File Description: BitLocker boot sector (Win7)
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: EB-58-90-2D-46-56-45-2D
+

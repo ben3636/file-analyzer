@@ -1,0 +1,8 @@
+File Description: CD Stomper Pro label file
+
+File Extension: DSN
+
+Offset: 0
+
+Signature: 4D-56
+

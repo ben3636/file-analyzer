@@ -1,0 +1,8 @@
+File Description: Compressed tape archive_2
+
+File Extension: TAR.Z
+
+Offset: 0
+
+Signature: 1F-A0
+

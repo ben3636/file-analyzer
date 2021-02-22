@@ -1,0 +1,8 @@
+File Description: Apple Core Audio File
+
+File Extension: CAF
+
+Offset: 0
+
+Signature: 63-61-66-66
+

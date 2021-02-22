@@ -1,0 +1,8 @@
+File Description: AOL history|typed URL files
+
+File Extension: ARL|AUT
+
+Offset: 0
+
+Signature: D4-2A
+

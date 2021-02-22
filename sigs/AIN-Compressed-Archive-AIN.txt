@@ -1,0 +1,8 @@
+File Description: AIN Compressed Archive
+
+File Extension: AIN
+
+Offset: 0
+
+Signature: 21-12
+

@@ -1,0 +1,8 @@
+File Description: AOL parameter-info files
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 41-43-53-44
+

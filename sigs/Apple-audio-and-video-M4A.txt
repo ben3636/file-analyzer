@@ -1,0 +1,8 @@
+File Description: Apple audio and video
+
+File Extension: M4A
+
+Offset: 0
+
+Signature: 00-00-00-20-66-74-79-70-4D-34-41
+

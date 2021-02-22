@@ -1,0 +1,8 @@
+File Description: Audio Interchange File
+
+File Extension: AIFF
+
+Offset: 0
+
+Signature: 46-4F-52-4D-00
+

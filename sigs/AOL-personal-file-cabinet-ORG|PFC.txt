@@ -1,0 +1,8 @@
+File Description: AOL personal file cabinet
+
+File Extension: ORG|PFC
+
+Offset: 0
+
+Signature: 41-4F-4C-56-4D-31-30-30
+

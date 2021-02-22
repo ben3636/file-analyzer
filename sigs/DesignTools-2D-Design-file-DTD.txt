@@ -1,0 +1,8 @@
+File Description: DesignTools 2D Design file
+
+File Extension: DTD
+
+Offset: 0
+
+Signature: 07-64-74-32-64-64-74-64
+

@@ -1,0 +1,8 @@
+File Description: Dalvik (Android) executable file
+
+File Extension: dex
+
+Offset: 0
+
+Signature: 64-65-78-0A
+

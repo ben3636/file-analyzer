@@ -1,0 +1,8 @@
+File Description: DB2 conversion file
+
+File Extension: CNV
+
+Offset: 0
+
+Signature: 53-51-4C-4F-43-4F-4E-56
+

@@ -1,0 +1,8 @@
+File Description: Android package
+
+File Extension: APK
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

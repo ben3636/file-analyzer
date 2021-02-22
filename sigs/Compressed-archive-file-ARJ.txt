@@ -1,0 +1,8 @@
+File Description: Compressed archive file
+
+File Extension: ARJ
+
+Offset: 0
+
+Signature: 60-EA
+

@@ -1,0 +1,8 @@
+File Description: Compressed ISO CD image
+
+File Extension: CSO
+
+Offset: 0
+
+Signature: 43-49-53-4F
+

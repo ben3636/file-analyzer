@@ -1,0 +1,8 @@
+File Description: CALS raster bitmap
+
+File Extension: CAL
+
+Offset: 0
+
+Signature: 73-72-63-64-6F-63-69-64
+

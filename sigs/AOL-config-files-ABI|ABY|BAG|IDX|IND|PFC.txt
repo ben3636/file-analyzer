@@ -1,0 +1,8 @@
+File Description: AOL config files
+
+File Extension: ABI|ABY|BAG|IDX|IND|PFC
+
+Offset: 0
+
+Signature: 41-4F-4C
+

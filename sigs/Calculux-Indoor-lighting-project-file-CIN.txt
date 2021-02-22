@@ -1,0 +1,8 @@
+File Description: Calculux Indoor lighting project file
+
+File Extension: CIN
+
+Offset: 0
+
+Signature: 43-61-6C-63-75-6C-75-78-20-49-6E-64-6F-6F-72-20
+

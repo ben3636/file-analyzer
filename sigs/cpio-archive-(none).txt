@@ -1,0 +1,8 @@
+File Description: cpio archive
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 30-37-30-37-30
+

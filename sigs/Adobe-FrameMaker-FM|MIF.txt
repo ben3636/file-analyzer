@@ -1,0 +1,8 @@
+File Description: Adobe FrameMaker
+
+File Extension: FM|MIF
+
+Offset: 0
+
+Signature: 3C-4D-61-6B-65-72-46-69
+

@@ -1,0 +1,8 @@
+File Description: Creative Voice
+
+File Extension: VOC
+
+Offset: 0
+
+Signature: 43-72-65-61-74-69-76-65-20-56-6F-69-63-65-20-46
+

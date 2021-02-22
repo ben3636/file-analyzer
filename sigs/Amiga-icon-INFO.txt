@@ -1,0 +1,8 @@
+File Description: Amiga icon
+
+File Extension: INFO
+
+Offset: 0
+
+Signature: E3-10-00-01-00-00-00-00
+

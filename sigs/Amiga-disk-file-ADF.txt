@@ -1,0 +1,8 @@
+File Description: Amiga disk file
+
+File Extension: ADF
+
+Offset: 0
+
+Signature: 44-4F-53
+

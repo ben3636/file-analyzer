@@ -1,0 +1,8 @@
+File Description: AOL client preferences-settings file
+
+File Extension: IND
+
+Offset: 0
+
+Signature: 41-4F-4C-49-44-58
+

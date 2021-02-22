@@ -1,0 +1,8 @@
+File Description: Acronis True Image_1
+
+File Extension: TIB
+
+Offset: 0
+
+Signature: B4-6E-68-44
+

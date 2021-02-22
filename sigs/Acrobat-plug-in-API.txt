@@ -1,0 +1,8 @@
+File Description: Acrobat plug-in
+
+File Extension: API
+
+Offset: 0
+
+Signature: 4D-5A-90-00-03-00-00-00
+

@@ -1,0 +1,8 @@
+File Description: Apple Lossless Audio Codec file
+
+File Extension: M4A
+
+Offset: 4
+
+Signature: 66-74-79-70-4D-34-41-20
+

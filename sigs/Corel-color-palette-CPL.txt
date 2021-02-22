@@ -1,0 +1,8 @@
+File Description: Corel color palette
+
+File Extension: CPL
+
+Offset: 0
+
+Signature: DC-DC
+

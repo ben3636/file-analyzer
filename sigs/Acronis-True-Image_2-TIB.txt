@@ -1,0 +1,8 @@
+File Description: Acronis True Image_2
+
+File Extension: TIB
+
+Offset: 0
+
+Signature: CE-24-B9-A2-20-00-00-00
+

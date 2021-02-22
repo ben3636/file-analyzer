@@ -1,0 +1,8 @@
+File Description: Compressed archive
+
+File Extension: LHA|LZH
+
+Offset: 2
+
+Signature: 2D-6C-68
+

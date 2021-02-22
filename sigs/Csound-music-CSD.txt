@@ -1,0 +1,8 @@
+File Description: Csound music
+
+File Extension: CSD
+
+Offset: 0
+
+Signature: 3C-43-73-6F-75-6E-64-53-79-6E-74-68-65-73-69-7A
+

@@ -1,0 +1,8 @@
+File Description: Bitcoin Core wallet.dat file
+
+File Extension: DAT
+
+Offset: 8
+
+Signature: 00-00-00-00-62-31-05-00-09-00-00-00-00-20-00-00-00-09-00-00-00-00-00-00
+

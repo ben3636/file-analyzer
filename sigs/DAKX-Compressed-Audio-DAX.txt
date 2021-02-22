@@ -1,0 +1,8 @@
+File Description: DAKX Compressed Audio
+
+File Extension: DAX
+
+Offset: 0
+
+Signature: 46-4F-52-4D-00
+

@@ -1,0 +1,8 @@
+File Description: Allegro Generic Packfile (uncompressed)
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 73-6C-68-2E
+

@@ -1,0 +1,8 @@
+File Description: DeluxePaint Animation
+
+File Extension: ANM
+
+Offset: 0
+
+Signature: 4C-50-46-20-00-01
+

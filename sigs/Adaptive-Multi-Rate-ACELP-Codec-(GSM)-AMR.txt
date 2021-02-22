@@ -1,0 +1,8 @@
+File Description: Adaptive Multi-Rate ACELP Codec (GSM)
+
+File Extension: AMR
+
+Offset: 0
+
+Signature: 23-21-41-4D-52
+

@@ -1,0 +1,8 @@
+File Description: Amiga Hunk executable
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 00-00-03-F3
+

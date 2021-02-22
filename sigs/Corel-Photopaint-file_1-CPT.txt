@@ -1,0 +1,8 @@
+File Description: Corel Photopaint file_1
+
+File Extension: CPT
+
+Offset: 0
+
+Signature: 43-50-54-37-46-49-4C-45
+

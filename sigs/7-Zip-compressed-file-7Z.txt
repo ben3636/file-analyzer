@@ -1,0 +1,8 @@
+File Description: 7-Zip compressed file
+
+File Extension: 7Z
+
+Offset: 0
+
+Signature: 37-7A-BC-AF-27-1C
+

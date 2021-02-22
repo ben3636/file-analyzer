@@ -1,0 +1,8 @@
+File Description: AOL address book
+
+File Extension: ABY
+
+Offset: 0
+
+Signature: 41-4F-4C-44-42
+

@@ -1,0 +1,8 @@
+File Description: DAX Compressed CD image
+
+File Extension: DAX
+
+Offset: 0
+
+Signature: 44-41-58-00
+

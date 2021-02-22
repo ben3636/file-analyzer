@@ -1,0 +1,8 @@
+File Description: Audacity audio file
+
+File Extension: AU
+
+Offset: 0
+
+Signature: 64-6E-73-2E
+

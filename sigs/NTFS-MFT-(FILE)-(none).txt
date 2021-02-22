@@ -1,0 +1,8 @@
+File Description: NTFS MFT (FILE)
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 46-49-4C-45
+

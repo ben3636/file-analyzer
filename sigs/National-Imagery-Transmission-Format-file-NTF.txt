@@ -1,0 +1,8 @@
+File Description: National Imagery Transmission Format file
+
+File Extension: NTF
+
+Offset: 0
+
+Signature: 4E-49-54-46-30
+

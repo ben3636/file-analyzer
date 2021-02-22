@@ -1,0 +1,8 @@
+File Description: Palm Desktop DateBook
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: BE-BA-FE-CA-0F-50-61-6C-6D-53-47-20-44-61-74-61
+

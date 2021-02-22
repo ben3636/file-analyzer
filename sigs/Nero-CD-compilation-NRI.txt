@@ -1,0 +1,8 @@
+File Description: Nero CD compilation
+
+File Extension: NRI
+
+Offset: 0
+
+Signature: 0E-4E-65-72-6F-49-53-4F
+

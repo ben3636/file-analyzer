@@ -1,0 +1,8 @@
+File Description: OLE-SPSS-Visual C++ library file
+
+File Extension: TLB
+
+Offset: 0
+
+Signature: 4D-53-46-54-02-00-01-00
+

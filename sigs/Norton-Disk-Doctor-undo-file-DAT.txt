@@ -1,0 +1,8 @@
+File Description: Norton Disk Doctor undo file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 50-4E-43-49-55-4E-44-4F
+

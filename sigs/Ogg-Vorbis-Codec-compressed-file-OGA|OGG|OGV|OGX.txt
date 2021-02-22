@@ -1,0 +1,8 @@
+File Description: Ogg Vorbis Codec compressed file
+
+File Extension: OGA|OGG|OGV|OGX
+
+Offset: 0
+
+Signature: 4F-67-67-53-00-02-00-00
+

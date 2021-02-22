@@ -1,0 +1,8 @@
+File Description: Picasa movie project file
+
+File Extension: MXF
+
+Offset: 0
+
+Signature: 3C-43-54-72-61-6E-73-54-69-6D-65-6C-69-6E-65-3E
+

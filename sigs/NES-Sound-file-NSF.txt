@@ -1,0 +1,8 @@
+File Description: NES Sound file
+
+File Extension: NSF
+
+Offset: 0
+
+Signature: 4E-45-53-4D-1A-01
+

@@ -1,0 +1,8 @@
+File Description: Portable Graymap Graphic
+
+File Extension: PGM
+
+Offset: 0
+
+Signature: 50-35-0A
+

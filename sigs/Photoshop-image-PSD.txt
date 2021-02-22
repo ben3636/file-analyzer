@@ -1,0 +1,8 @@
+File Description: Photoshop image
+
+File Extension: PSD
+
+Offset: 0
+
+Signature: 38-42-50-53
+

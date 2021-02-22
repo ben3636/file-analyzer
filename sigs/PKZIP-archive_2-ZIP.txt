@@ -1,0 +1,8 @@
+File Description: PKZIP archive_2
+
+File Extension: ZIP
+
+Offset: 0
+
+Signature: 50-4B-05-06
+

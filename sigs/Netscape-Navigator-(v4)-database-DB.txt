@@ -1,0 +1,8 @@
+File Description: Netscape Navigator (v4) database
+
+File Extension: DB
+
+Offset: 0
+
+Signature: 00-06-15-61-00-00-00-02-00-00-04-D2-00-00-10-00
+

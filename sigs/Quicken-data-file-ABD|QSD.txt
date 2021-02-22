@@ -1,0 +1,8 @@
+File Description: Quicken data file
+
+File Extension: ABD|QSD
+
+Offset: 0
+
+Signature: 51-57-20-56-65-72-2E-20
+

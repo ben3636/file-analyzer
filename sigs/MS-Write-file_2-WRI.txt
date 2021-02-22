@@ -1,0 +1,8 @@
+File Description: MS Write file_2
+
+File Extension: WRI
+
+Offset: 0
+
+Signature: 32-BE
+

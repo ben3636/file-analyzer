@@ -1,0 +1,8 @@
+File Description: MSinfo file
+
+File Extension: MOF
+
+Offset: 0
+
+Signature: FF-FE-23-00-6C-00-69-00
+

@@ -1,0 +1,8 @@
+File Description: Open Publication Structure eBook
+
+File Extension: EPUB
+
+Offset: 0
+
+Signature: 50-4B-03-04-0A-00-02-00
+

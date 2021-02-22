@@ -1,0 +1,8 @@
+File Description: Netscape Communicator (v4) mail folder
+
+File Extension: SNM
+
+Offset: 0
+
+Signature: 00-1E-84-90-00-00-00-00
+

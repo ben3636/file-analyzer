@@ -1,0 +1,8 @@
+File Description: MultiBit Bitcoin wallet information
+
+File Extension: INFO
+
+Offset: 0
+
+Signature: 6D-75-6C-74-69-42-69-74-2E-69-6E-66-6F
+

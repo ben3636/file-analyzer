@@ -1,0 +1,8 @@
+File Description: Quicken data
+
+File Extension: QEL
+
+Offset: 92
+
+Signature: 51-45-4C-20
+

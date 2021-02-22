@@ -1,0 +1,8 @@
+File Description: National Transfer Format Map
+
+File Extension: NTF
+
+Offset: 0
+
+Signature: 30-31-4F-52-44-4E-41-4E
+

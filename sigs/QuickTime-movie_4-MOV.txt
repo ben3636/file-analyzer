@@ -1,0 +1,8 @@
+File Description: QuickTime movie_4
+
+File Extension: MOV
+
+Offset: 4
+
+Signature: 77-69-64-65
+

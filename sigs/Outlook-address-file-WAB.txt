@@ -1,0 +1,8 @@
+File Description: Outlook address file
+
+File Extension: WAB
+
+Offset: 0
+
+Signature: 9C-CB-CB-8D-13-75-D2-11
+

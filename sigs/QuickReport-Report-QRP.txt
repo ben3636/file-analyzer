@@ -1,0 +1,8 @@
+File Description: QuickReport Report
+
+File Extension: QRP
+
+Offset: 0
+
+Signature: FF-0A-00
+

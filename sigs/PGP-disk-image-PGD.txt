@@ -1,0 +1,8 @@
+File Description: PGP disk image
+
+File Extension: PGD
+
+Offset: 0
+
+Signature: 50-47-50-64-4D-41-49-4E
+

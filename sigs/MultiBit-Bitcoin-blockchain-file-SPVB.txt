@@ -1,0 +1,8 @@
+File Description: MultiBit Bitcoin blockchain file
+
+File Extension: SPVB
+
+Offset: 0
+
+Signature: 53-50-56-42
+

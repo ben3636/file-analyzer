@@ -1,0 +1,8 @@
+File Description: Quicken data
+
+File Extension: QDF
+
+Offset: 0
+
+Signature: AC-9E-BD-8F-00-00
+

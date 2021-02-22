@@ -1,0 +1,8 @@
+File Description: PKZIP archive_1
+
+File Extension: ZIP
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

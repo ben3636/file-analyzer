@@ -1,0 +1,8 @@
+File Description: Photoshop Custom Shape
+
+File Extension: CSH
+
+Offset: 0
+
+Signature: 63-75-73-68-00-00-00-02
+

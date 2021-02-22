@@ -1,0 +1,8 @@
+File Description: Qcow Disk Image
+
+File Extension: QEMU
+
+Offset: 0
+
+Signature: 51-46-49
+

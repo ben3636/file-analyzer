@@ -1,0 +1,8 @@
+File Description: PCX bitmap
+
+File Extension: DCX
+
+Offset: 0
+
+Signature: B1-68-DE-3A
+

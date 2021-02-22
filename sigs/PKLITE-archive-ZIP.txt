@@ -1,0 +1,8 @@
+File Description: PKLITE archive
+
+File Extension: ZIP
+
+Offset: 30
+
+Signature: 50-4B-4C-49-54-45
+

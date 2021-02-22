@@ -1,0 +1,8 @@
+File Description: PathWay Map file
+
+File Extension: PRC
+
+Offset: 60
+
+Signature: 74-42-4D-50-4B-6E-57-72
+

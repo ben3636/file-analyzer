@@ -1,0 +1,8 @@
+File Description: QuickTime movie_6
+
+File Extension: MOV
+
+Offset: 4
+
+Signature: 73-6B-69-70
+

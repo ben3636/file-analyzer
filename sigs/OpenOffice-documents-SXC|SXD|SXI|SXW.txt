@@ -1,0 +1,8 @@
+File Description: OpenOffice documents
+
+File Extension: SXC|SXD|SXI|SXW
+
+Offset: 0
+
+Signature: 50-4B-03-04
+

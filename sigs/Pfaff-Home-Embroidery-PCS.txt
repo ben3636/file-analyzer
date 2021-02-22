@@ -1,0 +1,8 @@
+File Description: Pfaff Home Embroidery
+
+File Extension: PCS
+
+Offset: 0
+
+Signature: 32-03-10-00-00-00-00-00-00-00-80-00-00-00-FF-00
+

@@ -1,0 +1,8 @@
+File Description: Quark Express (Motorola)
+
+File Extension: QXD
+
+Offset: 0
+
+Signature: 00-00-4D-4D-58-50-52
+

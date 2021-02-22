@@ -1,0 +1,8 @@
+File Description: Quatro Pro for Windows 7.0
+
+File Extension: WB3
+
+Offset: 24
+
+Signature: 3E-00-03-00-FE-FF-09-00-06
+

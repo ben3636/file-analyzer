@@ -1,0 +1,8 @@
+File Description: OpenEXR bitmap image
+
+File Extension: EXR
+
+Offset: 0
+
+Signature: 76-2F-31-01
+

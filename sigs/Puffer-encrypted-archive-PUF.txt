@@ -1,0 +1,8 @@
+File Description: Puffer encrypted archive
+
+File Extension: PUF
+
+Offset: 0
+
+Signature: 50-55-46-58
+

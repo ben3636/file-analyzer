@@ -1,0 +1,8 @@
+File Description: QuickTime movie_5
+
+File Extension: MOV
+
+Offset: 4
+
+Signature: 70-6E-6F-74
+

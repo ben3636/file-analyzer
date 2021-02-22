@@ -1,0 +1,8 @@
+File Description: Palm DateBook Archive
+
+File Extension: DBA
+
+Offset: 0
+
+Signature: 00-01-42-44
+

@@ -1,0 +1,8 @@
+File Description: QuattroPro spreadsheet
+
+File Extension: WB2
+
+Offset: 0
+
+Signature: 00-00-02-00
+

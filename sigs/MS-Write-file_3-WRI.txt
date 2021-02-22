@@ -1,0 +1,8 @@
+File Description: MS Write file_3
+
+File Extension: WRI
+
+Offset: 0
+
+Signature: BE-00-00-00-AB
+

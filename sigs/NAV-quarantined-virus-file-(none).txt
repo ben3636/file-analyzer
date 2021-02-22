@@ -1,0 +1,8 @@
+File Description: NAV quarantined virus file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: CD-20-AA-AA-02-00-00-00
+

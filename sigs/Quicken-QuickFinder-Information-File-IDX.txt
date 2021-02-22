@@ -1,0 +1,8 @@
+File Description: Quicken QuickFinder Information File
+
+File Extension: IDX
+
+Offset: 0
+
+Signature: 50-00-00-00-20-00-00-00
+

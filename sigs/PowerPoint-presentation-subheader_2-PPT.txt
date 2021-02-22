@@ -1,0 +1,8 @@
+File Description: PowerPoint presentation subheader_2
+
+File Extension: PPT
+
+Offset: 512
+
+Signature: 0F-00-E8-03
+

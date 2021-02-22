@@ -1,0 +1,8 @@
+File Description: PalmOS SuperMemo
+
+File Extension: PDB
+
+Offset: 0
+
+Signature: 73-6D-5F
+

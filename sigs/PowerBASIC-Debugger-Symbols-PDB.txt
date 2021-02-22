@@ -1,0 +1,8 @@
+File Description: PowerBASIC Debugger Symbols
+
+File Extension: PDB
+
+Offset: 0
+
+Signature: 73-7A-65-7A
+

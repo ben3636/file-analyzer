@@ -1,0 +1,8 @@
+File Description: Packet sniffer files
+
+File Extension: CAP
+
+Offset: 0
+
+Signature: 58-43-50-00
+

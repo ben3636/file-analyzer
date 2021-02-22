@@ -1,0 +1,8 @@
+File Description: OpenType font
+
+File Extension: OTF
+
+Offset: 0
+
+Signature: 4F-54-54-4F-00
+

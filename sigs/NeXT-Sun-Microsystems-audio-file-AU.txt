@@ -1,0 +1,8 @@
+File Description: NeXT-Sun Microsystems audio file
+
+File Extension: AU
+
+Offset: 0
+
+Signature: 2E-73-6E-64
+

@@ -1,0 +1,8 @@
+File Description: Outlook Express e-mail folder
+
+File Extension: DBX
+
+Offset: 0
+
+Signature: CF-AD-12-FE
+

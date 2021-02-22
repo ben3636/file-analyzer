@@ -1,0 +1,8 @@
+File Description: Palm Zire photo database
+
+File Extension: DB
+
+Offset: 0
+
+Signature: 44-42-46-48
+

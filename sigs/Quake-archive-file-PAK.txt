@@ -1,0 +1,8 @@
+File Description: Quake archive file
+
+File Extension: PAK
+
+Offset: 0
+
+Signature: 50-41-43-4B
+

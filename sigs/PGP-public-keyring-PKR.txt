@@ -1,0 +1,8 @@
+File Description: PGP public keyring
+
+File Extension: PKR
+
+Offset: 0
+
+Signature: 99-01
+

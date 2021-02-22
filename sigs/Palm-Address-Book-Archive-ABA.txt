@@ -1,0 +1,8 @@
+File Description: Palm Address Book Archive
+
+File Extension: ABA
+
+Offset: 0
+
+Signature: 00-01-42-41
+

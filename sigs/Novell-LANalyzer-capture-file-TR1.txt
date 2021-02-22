@@ -1,0 +1,8 @@
+File Description: Novell LANalyzer capture file
+
+File Extension: TR1
+
+Offset: 0
+
+Signature: 01-10
+

@@ -1,0 +1,8 @@
+File Description: QBASIC SZDD file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 53-5A-20-88-F0-27-33-D1
+

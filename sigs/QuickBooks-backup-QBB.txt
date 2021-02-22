@@ -1,0 +1,8 @@
+File Description: QuickBooks backup
+
+File Extension: QBB
+
+Offset: 0
+
+Signature: 45-86-00-00-06-00
+

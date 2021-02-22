@@ -1,0 +1,8 @@
+File Description: Outlook Express address book (Win95)
+
+File Extension: WAB
+
+Offset: 0
+
+Signature: 81-32-84-C1-85-05-D0-11
+

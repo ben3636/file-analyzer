@@ -1,0 +1,8 @@
+File Description: Psion Series 3 Database
+
+File Extension: DBF
+
+Offset: 0
+
+Signature: 4F-50-4C-44-61-74-61-62
+

@@ -1,0 +1,8 @@
+File Description: NTFS MFT (BAAD)
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 42-41-41-44
+

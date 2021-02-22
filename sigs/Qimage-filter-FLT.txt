@@ -1,0 +1,8 @@
+File Description: Qimage filter
+
+File Extension: FLT
+
+Offset: 0
+
+Signature: 76-32-30-30-33-2E-31-30
+

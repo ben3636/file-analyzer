@@ -1,0 +1,8 @@
+File Description: PKSFX self-extracting archive
+
+File Extension: ZIP
+
+Offset: 526
+
+Signature: 50-4B-53-70-58
+

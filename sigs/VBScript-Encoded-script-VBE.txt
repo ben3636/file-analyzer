@@ -1,0 +1,8 @@
+File Description: VBScript Encoded script
+
+File Extension: VBE
+
+Offset: 0
+
+Signature: 23-40-7E-5E
+

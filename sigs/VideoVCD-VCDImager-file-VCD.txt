@@ -1,0 +1,8 @@
+File Description: VideoVCD-VCDImager file
+
+File Extension: VCD
+
+Offset: 0
+
+Signature: 45-4E-54-52-59-56-43-44
+

@@ -1,0 +1,8 @@
+File Description: Show Partner graphics file
+
+File Extension: GX2
+
+Offset: 0
+
+Signature: 47-58-32
+

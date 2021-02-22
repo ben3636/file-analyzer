@@ -1,0 +1,8 @@
+File Description: Rich Text Format
+
+File Extension: RTF
+
+Offset: 0
+
+Signature: 7B-5C-72-74-66-31
+

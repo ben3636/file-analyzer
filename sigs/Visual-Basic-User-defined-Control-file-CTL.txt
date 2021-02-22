@@ -1,0 +1,8 @@
+File Description: Visual Basic User-defined Control file
+
+File Extension: CTL
+
+Offset: 0
+
+Signature: 56-45-52-53-49-4F-4E-20
+

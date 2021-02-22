@@ -1,0 +1,8 @@
+File Description: UFO Capture map file
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 55-46-4F-4F-72-62-69-74
+

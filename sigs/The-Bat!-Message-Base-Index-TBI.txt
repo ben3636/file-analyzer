@@ -1,0 +1,8 @@
+File Description: The Bat! Message Base Index
+
+File Extension: TBI
+
+Offset: 0
+
+Signature: 01-01-47-19-A4-00-00-00-00-00-00-00
+

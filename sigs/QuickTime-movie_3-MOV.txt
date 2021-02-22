@@ -1,0 +1,8 @@
+File Description: QuickTime movie_3
+
+File Extension: MOV
+
+Offset: 4
+
+Signature: 6D-64-61-74
+

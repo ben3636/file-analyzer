@@ -1,0 +1,8 @@
+File Description: UTF-32-UCS-2 file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: FF-FE
+

@@ -1,0 +1,8 @@
+File Description: RealMedia streaming media
+
+File Extension: RM|RMVB
+
+Offset: 0
+
+Signature: 2E-52-4D-46
+

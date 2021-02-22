@@ -1,0 +1,8 @@
+File Description: SPSS Data file
+
+File Extension: SAV
+
+Offset: 0
+
+Signature: 24-46-4C-32-40-28-23-29
+

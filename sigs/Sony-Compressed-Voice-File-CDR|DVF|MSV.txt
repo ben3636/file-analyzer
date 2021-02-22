@@ -1,0 +1,8 @@
+File Description: Sony Compressed Voice File
+
+File Extension: CDR|DVF|MSV
+
+Offset: 0
+
+Signature: 4D-53-5F-56-4F-49-43-45
+

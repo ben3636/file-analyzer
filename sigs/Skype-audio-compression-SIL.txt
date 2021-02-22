@@ -1,0 +1,8 @@
+File Description: Skype audio compression
+
+File Extension: SIL
+
+Offset: 0
+
+Signature: 23-21-53-49-4C-4B-0A
+

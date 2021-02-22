@@ -1,0 +1,8 @@
+File Description: Sonic Foundry Acid Music File
+
+File Extension: AC
+
+Offset: 0
+
+Signature: 72-69-66-66
+

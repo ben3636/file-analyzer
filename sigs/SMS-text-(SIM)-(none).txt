@@ -1,0 +1,8 @@
+File Description: SMS text (SIM)
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 6F-3C
+

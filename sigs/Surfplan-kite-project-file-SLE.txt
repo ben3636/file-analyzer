@@ -1,0 +1,8 @@
+File Description: Surfplan kite project file
+
+File Extension: SLE
+
+Offset: 0
+
+Signature: 3A-56-45-52-53-49-4F-4E
+

@@ -1,0 +1,8 @@
+File Description: Visio-DisplayWrite 4 text file
+
+File Extension: DW4
+
+Offset: 0
+
+Signature: 4F-7B
+

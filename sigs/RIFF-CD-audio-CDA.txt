@@ -1,0 +1,8 @@
+File Description: RIFF CD audio
+
+File Extension: CDA
+
+Offset: 8
+
+Signature: 43-44-44-41-66-6D-74-20
+

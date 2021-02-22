@@ -1,0 +1,8 @@
+File Description: Visual C++ Workbench Info File
+
+File Extension: VCW
+
+Offset: 0
+
+Signature: 5B-4D-53-56-43
+

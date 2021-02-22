@@ -1,0 +1,8 @@
+File Description: TIFF file_4
+
+File Extension: TIF|TIFF
+
+Offset: 0
+
+Signature: 4D-4D-00-2B
+

@@ -1,0 +1,8 @@
+File Description: Thunderbird-Mozilla Mail Summary File
+
+File Extension: MSF
+
+Offset: 0
+
+Signature: 2F-2F-20-3C-21-2D-2D-20-3C-6D-64-62-3A-6D-6F-72-6B-3A-7A
+

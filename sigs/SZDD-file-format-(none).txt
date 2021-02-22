@@ -1,0 +1,8 @@
+File Description: SZDD file format
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 53-5A-44-44-88-F0-27-33
+

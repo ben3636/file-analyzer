@@ -1,0 +1,8 @@
+File Description: SQL Data Base
+
+File Extension: MDF
+
+Offset: 0
+
+Signature: 01-0F-00-00
+

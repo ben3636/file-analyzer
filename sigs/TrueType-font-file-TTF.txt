@@ -1,0 +1,8 @@
+File Description: TrueType font file
+
+File Extension: TTF
+
+Offset: 0
+
+Signature: 00-01-00-00-00
+

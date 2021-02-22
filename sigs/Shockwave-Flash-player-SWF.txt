@@ -1,0 +1,8 @@
+File Description: Shockwave Flash player
+
+File Extension: SWF
+
+Offset: 0
+
+Signature: 46-57-53
+

@@ -1,0 +1,8 @@
+File Description: Screen saver
+
+File Extension: SCR
+
+Offset: 0
+
+Signature: 4D-5A
+

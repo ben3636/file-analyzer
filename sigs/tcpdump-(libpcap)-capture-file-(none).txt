@@ -1,0 +1,8 @@
+File Description: tcpdump (libpcap) capture file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: A1-B2-C3-D4
+

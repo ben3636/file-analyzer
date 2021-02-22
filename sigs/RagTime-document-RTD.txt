@@ -1,0 +1,8 @@
+File Description: RagTime document
+
+File Extension: RTD
+
+Offset: 0
+
+Signature: 43-23-2B-44-A4-43-4D-A5
+

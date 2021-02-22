@@ -1,0 +1,8 @@
+File Description: UUencoded BASE64 file
+
+File Extension: b64
+
+Offset: 0
+
+Signature: 62-65-67-69-6E-2D-62-61-73-65-36-34
+

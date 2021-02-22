@@ -1,0 +1,8 @@
+File Description: UFA compressed archive
+
+File Extension: UFA
+
+Offset: 0
+
+Signature: 55-46-41-C6-D2-C1
+

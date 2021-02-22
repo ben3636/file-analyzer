@@ -1,0 +1,8 @@
+File Description: Sietronics CPI XRD document
+
+File Extension: CPI
+
+Offset: 0
+
+Signature: 53-49-45-54-52-4F-4E-49
+

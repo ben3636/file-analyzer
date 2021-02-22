@@ -1,0 +1,8 @@
+File Description: Unicode extensions
+
+File Extension: UCE
+
+Offset: 0
+
+Signature: 55-43-45-58
+

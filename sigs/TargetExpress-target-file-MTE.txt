@@ -1,0 +1,8 @@
+File Description: TargetExpress target file
+
+File Extension: MTE
+
+Offset: 0
+
+Signature: 4D-43-57-20-54-65-63-68-6E-6F-67-6F-6C-69-65-73
+

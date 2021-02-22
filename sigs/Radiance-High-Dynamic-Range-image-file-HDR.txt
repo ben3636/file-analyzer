@@ -1,0 +1,8 @@
+File Description: Radiance High Dynamic Range image file
+
+File Extension: HDR
+
+Offset: 0
+
+Signature: 23-3F-52-41-44-49-41-4E
+

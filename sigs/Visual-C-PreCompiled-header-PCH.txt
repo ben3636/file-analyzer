@@ -1,0 +1,8 @@
+File Description: Visual C PreCompiled header
+
+File Extension: PCH
+
+Offset: 0
+
+Signature: 56-43-50-43-48-30
+

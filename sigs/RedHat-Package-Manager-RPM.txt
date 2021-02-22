@@ -1,0 +1,8 @@
+File Description: RedHat Package Manager
+
+File Extension: RPM
+
+Offset: 0
+
+Signature: ED-AB-EE-DB
+

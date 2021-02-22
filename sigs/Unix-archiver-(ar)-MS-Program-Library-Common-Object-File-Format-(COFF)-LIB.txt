@@ -1,0 +1,8 @@
+File Description: Unix archiver (ar)-MS Program Library Common Object File Format (COFF)
+
+File Extension: LIB
+
+Offset: 0
+
+Signature: 21-3C-61-72-63-68-3E-0A
+

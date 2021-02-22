@@ -1,0 +1,8 @@
+File Description: StuffIt archive
+
+File Extension: SIT
+
+Offset: 0
+
+Signature: 53-49-54-21-00
+

@@ -1,0 +1,8 @@
+File Description: UUencoded file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 62-65-67-69-6E
+

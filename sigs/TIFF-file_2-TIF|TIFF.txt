@@ -1,0 +1,8 @@
+File Description: TIFF file_2
+
+File Extension: TIF|TIFF
+
+Offset: 0
+
+Signature: 49-49-2A-00
+

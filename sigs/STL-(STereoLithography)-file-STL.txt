@@ -1,0 +1,8 @@
+File Description: STL (STereoLithography) file
+
+File Extension: STL
+
+Offset: 0
+
+Signature: 73-6F-6C-69-64
+

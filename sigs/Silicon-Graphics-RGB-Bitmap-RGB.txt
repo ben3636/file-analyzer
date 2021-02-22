@@ -1,0 +1,8 @@
+File Description: Silicon Graphics RGB Bitmap
+
+File Extension: RGB
+
+Offset: 0
+
+Signature: 01-DA-01-01-00-03
+

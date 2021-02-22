@@ -1,0 +1,8 @@
+File Description: SkinCrafter skin
+
+File Extension: SKF
+
+Offset: 0
+
+Signature: 07-53-4B-46
+

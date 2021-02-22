@@ -1,0 +1,8 @@
+File Description: Steganos virtual secure drive
+
+File Extension: SLE
+
+Offset: 0
+
+Signature: 41-43-76
+

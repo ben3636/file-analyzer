@@ -1,0 +1,8 @@
+File Description: Runtime Software disk image
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 1A-52-54-53-20-43-4F-4D
+

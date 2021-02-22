@@ -1,0 +1,8 @@
+File Description: Torrent file
+
+File Extension: TORRENT
+
+Offset: 0
+
+Signature: 64-38-3A-61-6E-6E-6F-75-6E-63-65
+

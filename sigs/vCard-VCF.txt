@@ -1,0 +1,8 @@
+File Description: vCard
+
+File Extension: VCF
+
+Offset: 0
+
+Signature: 42-45-47-49-4E-3A-56-43
+

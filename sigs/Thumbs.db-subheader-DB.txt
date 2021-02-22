@@ -1,0 +1,8 @@
+File Description: Thumbs.db subheader
+
+File Extension: DB
+
+Offset: 512
+
+Signature: FD-FF-FF-FF
+

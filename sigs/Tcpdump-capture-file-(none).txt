@@ -1,0 +1,8 @@
+File Description: Tcpdump capture file
+
+File Extension: (none)
+
+Offset: 0
+
+Signature: 34-CD-B2-A1
+

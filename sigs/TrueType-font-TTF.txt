@@ -1,0 +1,8 @@
+File Description: TrueType font
+
+File Extension: TTF
+
+Offset: 0
+
+Signature: 74-72-75-65-00
+

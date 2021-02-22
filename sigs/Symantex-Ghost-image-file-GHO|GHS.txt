@@ -1,0 +1,8 @@
+File Description: Symantex Ghost image file
+
+File Extension: GHO|GHS
+
+Offset: 0
+
+Signature: FE-EF
+

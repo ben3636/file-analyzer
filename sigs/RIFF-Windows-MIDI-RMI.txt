@@ -1,0 +1,8 @@
+File Description: RIFF Windows MIDI
+
+File Extension: RMI
+
+Offset: 8
+
+Signature: 52-4D-49-44-64-61-74-61
+

@@ -1,0 +1,8 @@
+File Description: Speedtouch router firmware
+
+File Extension: BIN|BLI|RBI
+
+Offset: 0
+
+Signature: 42-4C-49-32-32-33
+

@@ -1,0 +1,8 @@
+File Description: Tajima emboridery
+
+File Extension: DST
+
+Offset: 0
+
+Signature: 4C-41-3A
+

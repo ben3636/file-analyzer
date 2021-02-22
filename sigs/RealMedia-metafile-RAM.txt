@@ -1,0 +1,8 @@
+File Description: RealMedia metafile
+
+File Extension: RAM
+
+Offset: 0
+
+Signature: 72-74-73-70-3A-2F-2F
+

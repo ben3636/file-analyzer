@@ -1,0 +1,8 @@
+File Description: SmartDraw Drawing file
+
+File Extension: SDR
+
+Offset: 0
+
+Signature: 53-4D-41-52-54-44-52-57
+

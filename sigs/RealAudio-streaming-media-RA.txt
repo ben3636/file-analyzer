@@ -1,0 +1,8 @@
+File Description: RealAudio streaming media
+
+File Extension: RA
+
+Offset: 0
+
+Signature: 2E-72-61-FD-00
+

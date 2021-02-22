@@ -1,0 +1,8 @@
+File Description: TomTom traffic data
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 4E-41-56-54-52-41-46-46
+

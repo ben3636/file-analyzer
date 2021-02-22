@@ -1,0 +1,8 @@
+File Description: Virtual PC HD image
+
+File Extension: VHD
+
+Offset: 0
+
+Signature: 63-6F-6E-65-63-74-69-78
+

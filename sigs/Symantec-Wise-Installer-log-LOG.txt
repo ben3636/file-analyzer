@@ -1,0 +1,8 @@
+File Description: Symantec Wise Installer log
+
+File Extension: LOG
+
+Offset: 0
+
+Signature: -2A-2A-2A-20-20-49-6E-73
+

@@ -1,0 +1,8 @@
+File Description: Video CD MPEG movie
+
+File Extension: DAT
+
+Offset: 0
+
+Signature: 52-49-46-46
+

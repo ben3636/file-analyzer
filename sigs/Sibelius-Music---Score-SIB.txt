@@ -1,0 +1,8 @@
+File Description: Sibelius Music - Score
+
+File Extension: SIB
+
+Offset: 0
+
+Signature: 0F-53-49-42-45-4C-49-55-53
+

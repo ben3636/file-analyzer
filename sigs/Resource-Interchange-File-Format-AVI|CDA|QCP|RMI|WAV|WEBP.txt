@@ -1,0 +1,8 @@
+File Description: Resource Interchange File Format
+
+File Extension: AVI|CDA|QCP|RMI|WAV|WEBP
+
+Offset: 0
+
+Signature: 52-49-46-46
+

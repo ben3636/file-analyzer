@@ -1,0 +1,8 @@
+File Description: Tape Archive
+
+File Extension: TAR
+
+Offset: 257
+
+Signature: 75-73-74-61-72
+

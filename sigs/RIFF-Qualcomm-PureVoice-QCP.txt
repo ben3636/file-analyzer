@@ -1,0 +1,8 @@
+File Description: RIFF Qualcomm PureVoice
+
+File Extension: QCP
+
+Offset: 8
+
+Signature: 51-4C-43-4D-66-6D-74-20
+

@@ -1,0 +1,8 @@
+File Description: Visual Studio .NET file
+
+File Extension: SLN
+
+Offset: 0
+
+Signature: 4D-69-63-72-6F-73-6F-66-74-20-56-69-73-75-61-6C
+

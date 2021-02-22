@@ -1,0 +1,8 @@
+File Description: RIFF Windows Audio
+
+File Extension: WAV
+
+Offset: 8
+
+Signature: 57-41-56-45-66-6D-74-20
+

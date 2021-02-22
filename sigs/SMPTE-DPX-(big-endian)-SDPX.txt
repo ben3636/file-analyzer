@@ -1,0 +1,8 @@
+File Description: SMPTE DPX (big endian)
+
+File Extension: SDPX
+
+Offset: 0
+
+Signature: 53-44-50-58
+

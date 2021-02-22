@@ -1,0 +1,8 @@
+File Description: Visual Studio Solution subheader
+
+File Extension: SUO
+
+Offset: 512
+
+Signature: FD-FF-FF-FF-04
+

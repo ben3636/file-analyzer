@@ -1,0 +1,8 @@
+File Description: RIFF Windows Audio
+
+File Extension: AVI
+
+Offset: 8
+
+Signature: 41-56-49-20-4C-49-53-54
+

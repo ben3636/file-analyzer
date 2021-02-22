@@ -1,0 +1,8 @@
+File Description: Skype user data file
+
+File Extension: DBB
+
+Offset: 0
+
+Signature: 6C-33-33-6C
+
